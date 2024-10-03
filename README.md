@@ -7,3 +7,4 @@ The two main files for the main results are `Dynathink.py` and `Dynathink_iterat
 
 To run the files, you just need to fill in the datapath.
 If you want to use your own data, you have to follow the same data format as our examples'. We generate these data thanks to the code from https://github.com/NingMiao/SelfCheck. We use its first two steps to generate answers and divide steps.
+The ablation study part is not complete, we will update it soon.
